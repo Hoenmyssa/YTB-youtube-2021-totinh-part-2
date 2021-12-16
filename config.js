@@ -1,18 +1,18 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
     introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
-    introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
-    btnIntro: 'OK',
-    title: 'Anh biết Em thích Anh phải không phải không ? 😙',
-    desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
-    btnYes: 'Có, em thật sự thích anh 💖💖💖',
-    btnNo: '💔 Anh mơ à ! 💔 ',
-    question:'Nói cho Anh biết đi vì sao Em thích anh 😊😊',
+    introDesc: `Huyền có điều này muốn hỏi Tài`,
+    btnIntro: 'Tài nghe nè ',
+    title: 'Tài có thương Huyền hông nè ? 😙',
+    desc: 'Hông trả lời thì hông được xem tiếp ',
+    btnYes: 'Tài thương Huyền nhiều lắm nè 💖💖💖',
+    btnNo: '💔 Hông thích đâu, Huyền mơ à ! 💔 ',
+    question:'Thế giới có 7 tỉ người sao tài lại thích Huyền dợ 😊😊',
     reasonPlaceholder: 'Lý do',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
-    mess: 'Anh biết mà, Anh cũng thích em lắm 🥰. Love you 300.000 😘😘',
-    messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
-    btnAccept: 'Ok lun 💖',
-    messLink: 'https://m.me/PhungQuocDinh'
+    reply: 'Chắc tại Huyền dễ thương ha 😊😊',
+    mess: 'Huyền cũng thương tài nhiều lắm nè 🥰. Love you 300.000 😘😘',
+    messDesc: '💬💬 Nhắn tin cho vk nhaaaaaa. 💬💬',
+    btnAccept: 'Dĩ nhiên nèeee 💖',
+    messLink: ' 'https://m.me/PhungQuocDinh'
 }
